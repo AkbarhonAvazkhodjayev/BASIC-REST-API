@@ -1,6 +1,6 @@
 # Basic REST API
 
-A simple python program that allows you to post, get, delete, put, and create an authorized user using Postman to test the different endpoints.
+A simple python program that allows you to post, get, delete, put, and create an authorized user using Postman. These endpoints can be tested through postman. 
 
 ```
 Features:
