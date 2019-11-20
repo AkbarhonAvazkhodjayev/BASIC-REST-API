@@ -3,7 +3,7 @@
 A simple python program that allows you to post, get, delete, put, and create an authorized user using Postman to test the different endpoints.
 
 ```
-## Features:
+Features:
 -> POST – Create an item with any name and change the price accordingly through postman.
 -> GET – Allows you to retrieve all items in the items list, or a specific item in the list.
 -> DEL – Delete a specific item in the items list.
